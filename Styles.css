@@ -78,6 +78,7 @@ padding: 0rem 0.5rem;
 .hero
 {
     padding: 2rem;
+    padding-top: 4rem;
 }
 .hero .hero-img
 {
@@ -117,6 +118,11 @@ text-align:center;
     color: white;
     border-bottom-right-radius: 1rem ;
 }
+.footer .footer-header
+{
+    font-weight: bold;
+    font-size: large;
+}
 .footer .link
 {
     color: white;
@@ -124,4 +130,12 @@ text-align:center;
 .footer ul
 {
     padding-inline-start: 0px;
+}
+.margin-md
+{
+    margin: 3rem 0rem;
+}
+.margin-lrg
+{
+    margin-bottom: 3rem;
 }
